@@ -22,17 +22,17 @@ Features include:
 ## 📂 Project Structure
 
 SpaceX-app/
-src/
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   ├── api.js               # Fetches data from SpaceX API
-│   ├── ui.js                # Renders UI components
-│   ├── infiniteScroll.js    # Handles lazy loading
-│   ├── search.js            # Search functionality  
-│   └
-│
-└── main.js                  # Entry point
+│ src/
+│    │
+│    ├── css/
+│    │   └── style.css
+│    │
+│    ├── js/
+│    │   ├── api.js               # Fetches data from SpaceX API
+│    │   ├── ui.js                # Renders UI components
+│    │   ├── infiniteScroll.js    # Handles lazy loading
+│    │   ├── search.js            # Search functionality  
+│    │   └
+│    │
+│    └── main.js                  # Entry point
 └── index.html               # Root HTML file, mounts the app
